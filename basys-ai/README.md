@@ -1,4 +1,4 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+# [Basys.AI](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
@@ -6,7 +6,7 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 ## Preview
 
-[![SB Admin 2 Preview]("C:\Users\Dell\Downloads\WhatsApp Image 2023-03-12 at 00.33.49.jpeg")](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![SB Admin 2 Preview]("C:\Users\Dell\Downloads\WhatsApp Image 2023-03-12 at 00.33.49.jpeg")]((https://roaring-tarsier-5cb281.netlify.app/index.html))
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
